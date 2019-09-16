@@ -1,0 +1,4622 @@
+[
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "270万",
+    "unitPrice": "44828元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "215m²",
+    "totalPrice": "1980万",
+    "unitPrice": "92093元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "198m²",
+    "totalPrice": "480万",
+    "unitPrice": "24242元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "110m²",
+    "totalPrice": "1215万",
+    "unitPrice": "110455元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "95m²",
+    "totalPrice": "270万",
+    "unitPrice": "28421元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "73m²",
+    "totalPrice": "255万",
+    "unitPrice": "34487元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "86万",
+    "unitPrice": "14549元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "185m²",
+    "totalPrice": "1800万",
+    "unitPrice": "96800元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "84m²",
+    "totalPrice": "215万",
+    "unitPrice": "25568元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "85m²",
+    "totalPrice": "210万",
+    "unitPrice": "24530元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "92m²",
+    "totalPrice": "860万",
+    "unitPrice": "93164元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "353m²",
+    "totalPrice": "3200万",
+    "unitPrice": "90652元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "89m²",
+    "totalPrice": "319.2万",
+    "unitPrice": "35865元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "147m²",
+    "totalPrice": "1175万",
+    "unitPrice": "79888元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "165万",
+    "unitPrice": "27872元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "106m²",
+    "totalPrice": "410万",
+    "unitPrice": "38404元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "440万",
+    "unitPrice": "70400元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "92m²",
+    "totalPrice": "476万",
+    "unitPrice": "51717元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "93m²",
+    "totalPrice": "720万",
+    "unitPrice": "76735元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "92m²",
+    "totalPrice": "490万",
+    "unitPrice": "52893元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "216m²",
+    "totalPrice": "2280万",
+    "unitPrice": "105239元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "112m²",
+    "totalPrice": "330万",
+    "unitPrice": "29312元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "124m²",
+    "totalPrice": "850万",
+    "unitPrice": "68388元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室1厅",
+    "area": "188m²",
+    "totalPrice": "1250万",
+    "unitPrice": "66169元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "128m²",
+    "totalPrice": "1930万",
+    "unitPrice": "150394元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "75m²",
+    "totalPrice": "230万",
+    "unitPrice": "30271元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "169m²",
+    "totalPrice": "1280万",
+    "unitPrice": "75605元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "54m²",
+    "totalPrice": "770万",
+    "unitPrice": "141831元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "87m²",
+    "totalPrice": "570万",
+    "unitPrice": "65359元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "57m²",
+    "totalPrice": "236万",
+    "unitPrice": "40873元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "105m²",
+    "totalPrice": "447万",
+    "unitPrice": "42326元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "300万",
+    "unitPrice": "53476元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "139m²",
+    "totalPrice": "950万",
+    "unitPrice": "67906元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室2厅",
+    "area": "62m²",
+    "totalPrice": "140万",
+    "unitPrice": "22393元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "141m²",
+    "totalPrice": "830万",
+    "unitPrice": "58736元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "144m²",
+    "totalPrice": "1360万",
+    "unitPrice": "94444元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "51m²",
+    "totalPrice": "510万",
+    "unitPrice": "99512元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "174m²",
+    "totalPrice": "1350万",
+    "unitPrice": "77209元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "58m²",
+    "totalPrice": "230万",
+    "unitPrice": "39655元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "52m²",
+    "totalPrice": "452万",
+    "unitPrice": "86276元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "490万",
+    "unitPrice": "39122元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "209m²",
+    "totalPrice": "1680万",
+    "unitPrice": "80034元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "156m²",
+    "totalPrice": "1450万",
+    "unitPrice": "92949元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "96m²",
+    "totalPrice": "405万",
+    "unitPrice": "41878元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "88m²",
+    "totalPrice": "699万",
+    "unitPrice": "79288元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "291m²",
+    "totalPrice": "3388万",
+    "unitPrice": "116143元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "69m²",
+    "totalPrice": "253万",
+    "unitPrice": "36667元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "60m²",
+    "totalPrice": "247万",
+    "unitPrice": "41167元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "79m²",
+    "totalPrice": "345万",
+    "unitPrice": "43616元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "220m²",
+    "totalPrice": "3200万",
+    "unitPrice": "145217元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "408万",
+    "unitPrice": "69094元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "156m²",
+    "totalPrice": "1050万",
+    "unitPrice": "67308元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "275万",
+    "unitPrice": "49107元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "59m²",
+    "totalPrice": "240万",
+    "unitPrice": "40472元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "67m²",
+    "totalPrice": "270万",
+    "unitPrice": "40299元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "226m²",
+    "totalPrice": "1070万",
+    "unitPrice": "47280元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "190万",
+    "unitPrice": "38000元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室",
+    "area": "44m²",
+    "totalPrice": "282万",
+    "unitPrice": "63514元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "146m²",
+    "totalPrice": "1550万",
+    "unitPrice": "105457元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "80m²",
+    "totalPrice": "640万",
+    "unitPrice": "79444元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "519万",
+    "unitPrice": "79431元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "167m²",
+    "totalPrice": "1350万",
+    "unitPrice": "80698元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "191m²",
+    "totalPrice": "1850万",
+    "unitPrice": "96859元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "88m²",
+    "totalPrice": "340万",
+    "unitPrice": "38636元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "107m²",
+    "totalPrice": "285万",
+    "unitPrice": "26539元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "99m²",
+    "totalPrice": "380万",
+    "unitPrice": "38122元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "294m²",
+    "totalPrice": "2150万",
+    "unitPrice": "73129元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "314m²",
+    "totalPrice": "1390万",
+    "unitPrice": "44159元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "115m²",
+    "totalPrice": "1020万",
+    "unitPrice": "87999元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "332m²",
+    "totalPrice": "2780万",
+    "unitPrice": "83664元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "147m²",
+    "totalPrice": "850万",
+    "unitPrice": "57510元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "280m²",
+    "totalPrice": "2600万",
+    "unitPrice": "92857元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "137m²",
+    "totalPrice": "263万",
+    "unitPrice": "19197元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "98m²",
+    "totalPrice": "580万",
+    "unitPrice": "58716元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "32m²",
+    "totalPrice": "493万",
+    "unitPrice": "149802元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "96m²",
+    "totalPrice": "780万",
+    "unitPrice": "81242元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "53m²",
+    "totalPrice": "450万",
+    "unitPrice": "84698元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "151m²",
+    "totalPrice": "900万",
+    "unitPrice": "59250元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "62m²",
+    "totalPrice": "275万",
+    "unitPrice": "43762元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "166m²",
+    "totalPrice": "880万",
+    "unitPrice": "52894元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "151m²",
+    "totalPrice": "300万",
+    "unitPrice": "19743元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "54m²",
+    "totalPrice": "540万",
+    "unitPrice": "99852元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "246万",
+    "unitPrice": "41172元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "121m²",
+    "totalPrice": "795万",
+    "unitPrice": "65357元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "54m²",
+    "totalPrice": "260万",
+    "unitPrice": "48077元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "75m²",
+    "totalPrice": "750万",
+    "unitPrice": "98814元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "61m²",
+    "totalPrice": "158万",
+    "unitPrice": "25649元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "4室1厅",
+    "area": "266m²",
+    "totalPrice": "2850万",
+    "unitPrice": "107139元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "116m²",
+    "totalPrice": "540万",
+    "unitPrice": "46300元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "458m²",
+    "totalPrice": "6200万",
+    "unitPrice": "135109元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "69m²",
+    "totalPrice": "685万",
+    "unitPrice": "98960元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "118m²",
+    "totalPrice": "899万",
+    "unitPrice": "76186元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "70m²",
+    "totalPrice": "560万",
+    "unitPrice": "80000元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "70m²",
+    "totalPrice": "650万",
+    "unitPrice": "92159元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "118m²",
+    "totalPrice": "270万",
+    "unitPrice": "22881元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "600万",
+    "unitPrice": "95831元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "620万",
+    "unitPrice": "103161元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "512万",
+    "unitPrice": "76418元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "38m²",
+    "totalPrice": "485万",
+    "unitPrice": "125323元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "138m²",
+    "totalPrice": "1500万",
+    "unitPrice": "108491元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "200m²",
+    "totalPrice": "1350万",
+    "unitPrice": "67392元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "52m²",
+    "totalPrice": "395万",
+    "unitPrice": "75310元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "93m²",
+    "totalPrice": "1098万",
+    "unitPrice": "117874元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "134m²",
+    "totalPrice": "689万",
+    "unitPrice": "51280元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "88m²",
+    "totalPrice": "836万",
+    "unitPrice": "93964元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "75m²",
+    "totalPrice": "215万",
+    "unitPrice": "28316元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "58m²",
+    "totalPrice": "350万",
+    "unitPrice": "60345元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "355万",
+    "unitPrice": "56864元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "130m²",
+    "totalPrice": "1120万",
+    "unitPrice": "85516元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "89m²",
+    "totalPrice": "635万",
+    "unitPrice": "70634元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "132m²",
+    "totalPrice": "600万",
+    "unitPrice": "45133元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "4室1厅",
+    "area": "102m²",
+    "totalPrice": "659万",
+    "unitPrice": "64099元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "74m²",
+    "totalPrice": "550万",
+    "unitPrice": "74324元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "75m²",
+    "totalPrice": "455万",
+    "unitPrice": "60329元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "61m²",
+    "totalPrice": "390万",
+    "unitPrice": "62924元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "105m²",
+    "totalPrice": "735万",
+    "unitPrice": "70000元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "400万",
+    "unitPrice": "79554元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "209m²",
+    "totalPrice": "1300万",
+    "unitPrice": "62180元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "473m²",
+    "totalPrice": "7105万",
+    "unitPrice": "149898元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "190万",
+    "unitPrice": "29168元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "106m²",
+    "totalPrice": "410万",
+    "unitPrice": "38404元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "440万",
+    "unitPrice": "70400元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "337m²",
+    "totalPrice": "1600万",
+    "unitPrice": "47478元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "85m²",
+    "totalPrice": "70万",
+    "unitPrice": "8235元/m²",
+    "place": "北京周边"
+  },
+  {
+    "bedroom": "1室",
+    "area": "36m²",
+    "totalPrice": "268万",
+    "unitPrice": "73505元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "290m²",
+    "totalPrice": "1299万",
+    "unitPrice": "44793元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "348m²",
+    "totalPrice": "3300万",
+    "unitPrice": "94828元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "92m²",
+    "totalPrice": "395万",
+    "unitPrice": "42606元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "71m²",
+    "totalPrice": "190万",
+    "unitPrice": "26415元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "99m²",
+    "totalPrice": "785万",
+    "unitPrice": "79293元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "49m²",
+    "totalPrice": "130万",
+    "unitPrice": "26531元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "127m²",
+    "totalPrice": "398万",
+    "unitPrice": "31099元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "85m²",
+    "totalPrice": "358万",
+    "unitPrice": "41657元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "155m²",
+    "totalPrice": "1650万",
+    "unitPrice": "106383元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "60m²",
+    "totalPrice": "418万",
+    "unitPrice": "68954元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "275万",
+    "unitPrice": "49107元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "59m²",
+    "totalPrice": "240万",
+    "unitPrice": "40472元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "81m²",
+    "totalPrice": "319万",
+    "unitPrice": "39383元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "67m²",
+    "totalPrice": "270万",
+    "unitPrice": "40299元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "226m²",
+    "totalPrice": "1070万",
+    "unitPrice": "47280元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "190万",
+    "unitPrice": "38000元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室",
+    "area": "44m²",
+    "totalPrice": "282万",
+    "unitPrice": "63514元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "146m²",
+    "totalPrice": "1550万",
+    "unitPrice": "105457元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "80m²",
+    "totalPrice": "640万",
+    "unitPrice": "79444元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "79m²",
+    "totalPrice": "195万",
+    "unitPrice": "24406元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "62m²",
+    "totalPrice": "710万",
+    "unitPrice": "114516元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "398m²",
+    "totalPrice": "4000万",
+    "unitPrice": "100306元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "276m²",
+    "totalPrice": "9999万",
+    "unitPrice": "362204元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "96m²",
+    "totalPrice": "230万",
+    "unitPrice": "23958元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "264m²",
+    "totalPrice": "3759万",
+    "unitPrice": "142386元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "89m²",
+    "totalPrice": "518万",
+    "unitPrice": "57748元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "74m²",
+    "totalPrice": "320万",
+    "unitPrice": "42775元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "44m²",
+    "totalPrice": "290万",
+    "unitPrice": "64761元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "138m²",
+    "totalPrice": "980万",
+    "unitPrice": "71014元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "94m²",
+    "totalPrice": "630万",
+    "unitPrice": "67021元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "83m²",
+    "totalPrice": "458万",
+    "unitPrice": "54615元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "330万",
+    "unitPrice": "65895元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "266m²",
+    "totalPrice": "3200万",
+    "unitPrice": "120233元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "240万",
+    "unitPrice": "39177元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "93m²",
+    "totalPrice": "455万",
+    "unitPrice": "48757元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "52m²",
+    "totalPrice": "260万",
+    "unitPrice": "50000元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "104m²",
+    "totalPrice": "689万",
+    "unitPrice": "65984元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "735万",
+    "unitPrice": "123529元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "152m²",
+    "totalPrice": "980万",
+    "unitPrice": "64208元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "45m²",
+    "totalPrice": "130万",
+    "unitPrice": "28889元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "93m²",
+    "totalPrice": "395万",
+    "unitPrice": "42142元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "76m²",
+    "totalPrice": "270万",
+    "unitPrice": "35280元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "365m²",
+    "totalPrice": "1260万",
+    "unitPrice": "34521元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "6室3厅",
+    "area": "411m²",
+    "totalPrice": "2850万",
+    "unitPrice": "69242元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "100m²",
+    "totalPrice": "820万",
+    "unitPrice": "81836元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "143m²",
+    "totalPrice": "1294万",
+    "unitPrice": "89986元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "105m²",
+    "totalPrice": "1630万",
+    "unitPrice": "154884元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "69m²",
+    "totalPrice": "388万",
+    "unitPrice": "55908元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "77m²",
+    "totalPrice": "520万",
+    "unitPrice": "67088元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "92m²",
+    "totalPrice": "221万",
+    "unitPrice": "23936元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "78m²",
+    "totalPrice": "690万",
+    "unitPrice": "88360元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "96m²",
+    "totalPrice": "1830万",
+    "unitPrice": "188874元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "464万",
+    "unitPrice": "67471元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "157m²",
+    "totalPrice": "380万",
+    "unitPrice": "24167元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "110m²",
+    "totalPrice": "918万",
+    "unitPrice": "83455元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "155m²",
+    "totalPrice": "1650万",
+    "unitPrice": "106383元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "60m²",
+    "totalPrice": "418万",
+    "unitPrice": "68954元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "266m²",
+    "totalPrice": "2850万",
+    "unitPrice": "107143元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "280万",
+    "unitPrice": "45432元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "92m²",
+    "totalPrice": "469万",
+    "unitPrice": "50588元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "63m²",
+    "totalPrice": "460万",
+    "unitPrice": "72681元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "81m²",
+    "totalPrice": "122万",
+    "unitPrice": "15062元/m²",
+    "place": "北京周边"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "76m²",
+    "totalPrice": "365万",
+    "unitPrice": "47495元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "140m²",
+    "totalPrice": "695万",
+    "unitPrice": "49312元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "57m²",
+    "totalPrice": "376万",
+    "unitPrice": "65517元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "92m²",
+    "totalPrice": "520万",
+    "unitPrice": "56430元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "197m²",
+    "totalPrice": "690万",
+    "unitPrice": "35025元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "91m²",
+    "totalPrice": "650万",
+    "unitPrice": "71007元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "94m²",
+    "totalPrice": "450万",
+    "unitPrice": "47448元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "499万",
+    "unitPrice": "72635元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "71m²",
+    "totalPrice": "459万",
+    "unitPrice": "64648元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "77m²",
+    "totalPrice": "520万",
+    "unitPrice": "67088元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "92m²",
+    "totalPrice": "221万",
+    "unitPrice": "23936元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "78m²",
+    "totalPrice": "690万",
+    "unitPrice": "88360元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "96m²",
+    "totalPrice": "1830万",
+    "unitPrice": "188874元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "464万",
+    "unitPrice": "67471元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "81m²",
+    "totalPrice": "526万",
+    "unitPrice": "64643元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "157m²",
+    "totalPrice": "380万",
+    "unitPrice": "24167元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "63m²",
+    "totalPrice": "520万",
+    "unitPrice": "82265元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "110m²",
+    "totalPrice": "918万",
+    "unitPrice": "83455元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "39m²",
+    "totalPrice": "85万",
+    "unitPrice": "21795元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "117m²",
+    "totalPrice": "630万",
+    "unitPrice": "53842元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "47m²",
+    "totalPrice": "195万",
+    "unitPrice": "41489元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "70m²",
+    "totalPrice": "178万",
+    "unitPrice": "25184元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "71m²",
+    "totalPrice": "675万",
+    "unitPrice": "94910元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "371m²",
+    "totalPrice": "3099万",
+    "unitPrice": "83367元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "55m²",
+    "totalPrice": "520万",
+    "unitPrice": "94033元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "520m²",
+    "totalPrice": "6750万",
+    "unitPrice": "129808元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "48m²",
+    "totalPrice": "395万",
+    "unitPrice": "81443元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "84m²",
+    "totalPrice": "660万",
+    "unitPrice": "77693元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "850万",
+    "unitPrice": "123816元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "84m²",
+    "totalPrice": "220万",
+    "unitPrice": "25946元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "58m²",
+    "totalPrice": "355万",
+    "unitPrice": "61207元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "72m²",
+    "totalPrice": "825万",
+    "unitPrice": "114424元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "81m²",
+    "totalPrice": "470万",
+    "unitPrice": "57338元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "86m²",
+    "totalPrice": "292万",
+    "unitPrice": "33757元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "172m²",
+    "totalPrice": "1800万",
+    "unitPrice": "104590元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "97m²",
+    "totalPrice": "860万",
+    "unitPrice": "88079元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "89m²",
+    "totalPrice": "378万",
+    "unitPrice": "42472元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "140m²",
+    "totalPrice": "405万",
+    "unitPrice": "28929元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "89m²",
+    "totalPrice": "285万",
+    "unitPrice": "31915元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "294m²",
+    "totalPrice": "2600万",
+    "unitPrice": "88363元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "92m²",
+    "totalPrice": "588万",
+    "unitPrice": "63913元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "58m²",
+    "totalPrice": "315万",
+    "unitPrice": "53837元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "186m²",
+    "totalPrice": "1800万",
+    "unitPrice": "96727元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "70m²",
+    "totalPrice": "560万",
+    "unitPrice": "79029元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室5厅",
+    "area": "246m²",
+    "totalPrice": "950万",
+    "unitPrice": "38618元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "459万",
+    "unitPrice": "51388元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "860万",
+    "unitPrice": "95428元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "212万",
+    "unitPrice": "31131元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "62m²",
+    "totalPrice": "350万",
+    "unitPrice": "56297元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "47m²",
+    "totalPrice": "310万",
+    "unitPrice": "65071元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "95m²",
+    "totalPrice": "750万",
+    "unitPrice": "78839元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "94m²",
+    "totalPrice": "480万",
+    "unitPrice": "50542元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "156m²",
+    "totalPrice": "1090万",
+    "unitPrice": "69666元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "91m²",
+    "totalPrice": "650万",
+    "unitPrice": "71007元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "94m²",
+    "totalPrice": "450万",
+    "unitPrice": "47448元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "499万",
+    "unitPrice": "72635元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "127m²",
+    "totalPrice": "450万",
+    "unitPrice": "35294元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "68m²",
+    "totalPrice": "435万",
+    "unitPrice": "63365元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "68m²",
+    "totalPrice": "485万",
+    "unitPrice": "71073元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "139m²",
+    "totalPrice": "648万",
+    "unitPrice": "46619元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "298m²",
+    "totalPrice": "1420万",
+    "unitPrice": "47651元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "108万",
+    "unitPrice": "21600元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "95m²",
+    "totalPrice": "270万",
+    "unitPrice": "28421元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "288万",
+    "unitPrice": "31722元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "113m²",
+    "totalPrice": "1350万",
+    "unitPrice": "118995元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "83m²",
+    "totalPrice": "545万",
+    "unitPrice": "65285元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室3厅",
+    "area": "750m²",
+    "totalPrice": "6999万",
+    "unitPrice": "93320元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "102m²",
+    "totalPrice": "215万",
+    "unitPrice": "21078元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "180m²",
+    "totalPrice": "1586万",
+    "unitPrice": "88013元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "65m²",
+    "totalPrice": "240万",
+    "unitPrice": "36641元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "53m²",
+    "totalPrice": "388万",
+    "unitPrice": "71918元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "76m²",
+    "totalPrice": "220万",
+    "unitPrice": "28879元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "38m²",
+    "totalPrice": "40万",
+    "unitPrice": "10526元/m²",
+    "place": "北京周边"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "145m²",
+    "totalPrice": "540万",
+    "unitPrice": "37241元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "860万",
+    "unitPrice": "95428元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "212万",
+    "unitPrice": "31131元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "62m²",
+    "totalPrice": "350万",
+    "unitPrice": "56297元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "47m²",
+    "totalPrice": "310万",
+    "unitPrice": "65071元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "95m²",
+    "totalPrice": "750万",
+    "unitPrice": "78839元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "94m²",
+    "totalPrice": "480万",
+    "unitPrice": "50542元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "156m²",
+    "totalPrice": "1090万",
+    "unitPrice": "69666元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "321万",
+    "unitPrice": "53322元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "47m²",
+    "totalPrice": "608万",
+    "unitPrice": "127731元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "5室5厅",
+    "area": "164m²",
+    "totalPrice": "1600万",
+    "unitPrice": "97531元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "185m²",
+    "totalPrice": "2799万",
+    "unitPrice": "151012元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "69m²",
+    "totalPrice": "232万",
+    "unitPrice": "33238元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "450万",
+    "unitPrice": "74343元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "43m²",
+    "totalPrice": "220万",
+    "unitPrice": "50297元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "283m²",
+    "totalPrice": "2599万",
+    "unitPrice": "91795元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "135m²",
+    "totalPrice": "1200万",
+    "unitPrice": "88300元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "152m²",
+    "totalPrice": "1500万",
+    "unitPrice": "98593元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "97m²",
+    "totalPrice": "580万",
+    "unitPrice": "59487元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "57m²",
+    "totalPrice": "524万",
+    "unitPrice": "90657元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "85m²",
+    "totalPrice": "405万",
+    "unitPrice": "47352元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "86m²",
+    "totalPrice": "165万",
+    "unitPrice": "19082元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "7室3厅",
+    "area": "316m²",
+    "totalPrice": "1750万",
+    "unitPrice": "55310元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室3厅",
+    "area": "425m²",
+    "totalPrice": "4000万",
+    "unitPrice": "94118元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "77m²",
+    "totalPrice": "657万",
+    "unitPrice": "84983元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "40m²",
+    "totalPrice": "415万",
+    "unitPrice": "102850元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "4室3厅",
+    "area": "270m²",
+    "totalPrice": "3980万",
+    "unitPrice": "147195元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "149m²",
+    "totalPrice": "1350万",
+    "unitPrice": "90361元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "150m²",
+    "totalPrice": "320万",
+    "unitPrice": "21333元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "60m²",
+    "totalPrice": "310万",
+    "unitPrice": "51004元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "124m²",
+    "totalPrice": "530万",
+    "unitPrice": "42557元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "385万",
+    "unitPrice": "57156元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "80m²",
+    "totalPrice": "415万",
+    "unitPrice": "51336元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "389万",
+    "unitPrice": "43488元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "167m²",
+    "totalPrice": "720万",
+    "unitPrice": "43114元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "289m²",
+    "totalPrice": "2350万",
+    "unitPrice": "81315元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "46m²",
+    "totalPrice": "350万",
+    "unitPrice": "75873元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "124m²",
+    "totalPrice": "648万",
+    "unitPrice": "52258元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "75m²",
+    "totalPrice": "190万",
+    "unitPrice": "25089元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "94m²",
+    "totalPrice": "430万",
+    "unitPrice": "45330元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室1厅",
+    "area": "228m²",
+    "totalPrice": "1270万",
+    "unitPrice": "55702元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "39m²",
+    "totalPrice": "98万",
+    "unitPrice": "24735元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "209m²",
+    "totalPrice": "1150万",
+    "unitPrice": "55024元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "518万",
+    "unitPrice": "57137元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "80m²",
+    "totalPrice": "332万",
+    "unitPrice": "41288元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "99m²",
+    "totalPrice": "785万",
+    "unitPrice": "79293元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "139m²",
+    "totalPrice": "340万",
+    "unitPrice": "24338元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "95m²",
+    "totalPrice": "622万",
+    "unitPrice": "64927元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "319m²",
+    "totalPrice": "799万",
+    "unitPrice": "25047元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "82m²",
+    "totalPrice": "579万",
+    "unitPrice": "70327元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "185m²",
+    "totalPrice": "1800万",
+    "unitPrice": "96800元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "661m²",
+    "totalPrice": "11000万",
+    "unitPrice": "166415元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "100m²",
+    "totalPrice": "480万",
+    "unitPrice": "47577元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "217m²",
+    "totalPrice": "1260万",
+    "unitPrice": "58038元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "196m²",
+    "totalPrice": "2800万",
+    "unitPrice": "142219元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "206m²",
+    "totalPrice": "1870万",
+    "unitPrice": "90777元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "131m²",
+    "totalPrice": "1739万",
+    "unitPrice": "132043元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "52m²",
+    "totalPrice": "520万",
+    "unitPrice": "98485元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "135m²",
+    "totalPrice": "980万",
+    "unitPrice": "72593元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "73m²",
+    "totalPrice": "1110万",
+    "unitPrice": "151847元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "72m²",
+    "totalPrice": "235万",
+    "unitPrice": "32218元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "179m²",
+    "totalPrice": "1800万",
+    "unitPrice": "100301元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "59m²",
+    "totalPrice": "365万",
+    "unitPrice": "61864元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "64m²",
+    "totalPrice": "290万",
+    "unitPrice": "44961元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "159m²",
+    "totalPrice": "3150万",
+    "unitPrice": "197864元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "193m²",
+    "totalPrice": "1995万",
+    "unitPrice": "103266元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "110m²",
+    "totalPrice": "1301万",
+    "unitPrice": "117472元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "55m²",
+    "totalPrice": "251万",
+    "unitPrice": "45512元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "111m²",
+    "totalPrice": "270万",
+    "unitPrice": "24213元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "88m²",
+    "totalPrice": "212万",
+    "unitPrice": "24091元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "840万",
+    "unitPrice": "134615元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "690万",
+    "unitPrice": "113674元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "85m²",
+    "totalPrice": "790万",
+    "unitPrice": "91882元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "68m²",
+    "totalPrice": "500万",
+    "unitPrice": "73025元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "63m²",
+    "totalPrice": "345万",
+    "unitPrice": "53991元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "92m²",
+    "totalPrice": "600万",
+    "unitPrice": "64739元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "78m²",
+    "totalPrice": "548万",
+    "unitPrice": "70256元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "161m²",
+    "totalPrice": "1300万",
+    "unitPrice": "80745元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "95m²",
+    "totalPrice": "625万",
+    "unitPrice": "65575元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "100m²",
+    "totalPrice": "1490万",
+    "unitPrice": "147730元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "89m²",
+    "totalPrice": "415万",
+    "unitPrice": "46561元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "41m²",
+    "totalPrice": "90万",
+    "unitPrice": "21951元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "52m²",
+    "totalPrice": "485万",
+    "unitPrice": "92983元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "325万",
+    "unitPrice": "54576元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "630万",
+    "unitPrice": "69683元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "129m²",
+    "totalPrice": "240万",
+    "unitPrice": "18570元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "54m²",
+    "totalPrice": "640万",
+    "unitPrice": "117002元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "840万",
+    "unitPrice": "93991元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "398万",
+    "unitPrice": "63854元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "62m²",
+    "totalPrice": "380万",
+    "unitPrice": "61123元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室4厅",
+    "area": "300m²",
+    "totalPrice": "2950万",
+    "unitPrice": "98333元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "58m²",
+    "totalPrice": "378万",
+    "unitPrice": "64726元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "96m²",
+    "totalPrice": "599万",
+    "unitPrice": "62305元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "108m²",
+    "totalPrice": "1050万",
+    "unitPrice": "96516元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "330万",
+    "unitPrice": "37079元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "120m²",
+    "totalPrice": "680万",
+    "unitPrice": "56667元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "280万",
+    "unitPrice": "43077元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "155m²",
+    "totalPrice": "1470万",
+    "unitPrice": "94291元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "148m²",
+    "totalPrice": "1020万",
+    "unitPrice": "68817元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "42m²",
+    "totalPrice": "325万",
+    "unitPrice": "76651元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "319m²",
+    "totalPrice": "799万",
+    "unitPrice": "25047元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "82m²",
+    "totalPrice": "579万",
+    "unitPrice": "70327元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "185m²",
+    "totalPrice": "1800万",
+    "unitPrice": "96800元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "163m²",
+    "totalPrice": "410万",
+    "unitPrice": "25153元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "43m²",
+    "totalPrice": "85万",
+    "unitPrice": "19599元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "115m²",
+    "totalPrice": "390万",
+    "unitPrice": "33913元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "80m²",
+    "totalPrice": "650万",
+    "unitPrice": "80685元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "143m²",
+    "totalPrice": "460万",
+    "unitPrice": "32168元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "104m²",
+    "totalPrice": "295万",
+    "unitPrice": "28230元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "94m²",
+    "totalPrice": "360万",
+    "unitPrice": "38294元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "121m²",
+    "totalPrice": "342万",
+    "unitPrice": "28264元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "4室3厅",
+    "area": "366m²",
+    "totalPrice": "2149万",
+    "unitPrice": "58716元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "93m²",
+    "totalPrice": "285万",
+    "unitPrice": "30384元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "4室4厅",
+    "area": "400m²",
+    "totalPrice": "900万",
+    "unitPrice": "22500元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "120万",
+    "unitPrice": "24000元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "152m²",
+    "totalPrice": "1280万",
+    "unitPrice": "84211元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "91m²",
+    "totalPrice": "330万",
+    "unitPrice": "36164元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "128m²",
+    "totalPrice": "520万",
+    "unitPrice": "40498元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "96m²",
+    "totalPrice": "599万",
+    "unitPrice": "62305元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "108m²",
+    "totalPrice": "1050万",
+    "unitPrice": "96516元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "330万",
+    "unitPrice": "37079元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "120m²",
+    "totalPrice": "680万",
+    "unitPrice": "56667元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "280万",
+    "unitPrice": "43077元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "155m²",
+    "totalPrice": "1470万",
+    "unitPrice": "94291元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "148m²",
+    "totalPrice": "1020万",
+    "unitPrice": "68817元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "42m²",
+    "totalPrice": "325万",
+    "unitPrice": "76651元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "104m²",
+    "totalPrice": "239万",
+    "unitPrice": "22981元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "100m²",
+    "totalPrice": "303万",
+    "unitPrice": "30285元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "215m²",
+    "totalPrice": "2600万",
+    "unitPrice": "120930元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "136m²",
+    "totalPrice": "700万",
+    "unitPrice": "51395元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "51m²",
+    "totalPrice": "610万",
+    "unitPrice": "117988元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "240m²",
+    "totalPrice": "935万",
+    "unitPrice": "38911元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "77m²",
+    "totalPrice": "248万",
+    "unitPrice": "31938元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "83m²",
+    "totalPrice": "910万",
+    "unitPrice": "108865元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "140m²",
+    "totalPrice": "2179万",
+    "unitPrice": "155188元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "88m²",
+    "totalPrice": "290万",
+    "unitPrice": "32625元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "142m²",
+    "totalPrice": "566万",
+    "unitPrice": "39680元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "41m²",
+    "totalPrice": "368万",
+    "unitPrice": "87870元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "55m²",
+    "totalPrice": "260万",
+    "unitPrice": "46847元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "96m²",
+    "totalPrice": "760万",
+    "unitPrice": "78953元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "142m²",
+    "totalPrice": "780万",
+    "unitPrice": "54930元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "33m²",
+    "totalPrice": "220万",
+    "unitPrice": "65770元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "86m²",
+    "totalPrice": "340万",
+    "unitPrice": "39356元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "132m²",
+    "totalPrice": "295万",
+    "unitPrice": "22254元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "4室7厅",
+    "area": "316m²",
+    "totalPrice": "2399万",
+    "unitPrice": "75901元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室",
+    "area": "35m²",
+    "totalPrice": "190万",
+    "unitPrice": "53536元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "68m²",
+    "totalPrice": "459万",
+    "unitPrice": "66871元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "118m²",
+    "totalPrice": "765万",
+    "unitPrice": "64302元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "149m²",
+    "totalPrice": "1070万",
+    "unitPrice": "71740元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "85m²",
+    "totalPrice": "338万",
+    "unitPrice": "39537元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "400m²",
+    "totalPrice": "1400万",
+    "unitPrice": "35000元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "397m²",
+    "totalPrice": "2000万",
+    "unitPrice": "50341元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "470万",
+    "unitPrice": "83039元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "148m²",
+    "totalPrice": "320万",
+    "unitPrice": "21622元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "90m²",
+    "totalPrice": "235万",
+    "unitPrice": "25967元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "106m²",
+    "totalPrice": "659万",
+    "unitPrice": "61820元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "122m²",
+    "totalPrice": "1066万",
+    "unitPrice": "87377元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "116m²",
+    "totalPrice": "360万",
+    "unitPrice": "30875元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "120m²",
+    "totalPrice": "720万",
+    "unitPrice": "60000元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "105m²",
+    "totalPrice": "1160万",
+    "unitPrice": "109921元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "128m²",
+    "totalPrice": "520万",
+    "unitPrice": "40498元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "370m²",
+    "totalPrice": "3600万",
+    "unitPrice": "97297元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "300m²",
+    "totalPrice": "1400万",
+    "unitPrice": "46667元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "117m²",
+    "totalPrice": "480万",
+    "unitPrice": "41026元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "68m²",
+    "totalPrice": "435万",
+    "unitPrice": "63365元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "525万",
+    "unitPrice": "41933元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "82m²",
+    "totalPrice": "545万",
+    "unitPrice": "65789元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "215m²",
+    "totalPrice": "2188万",
+    "unitPrice": "101767元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "201m²",
+    "totalPrice": "2399万",
+    "unitPrice": "119193元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "133m²",
+    "totalPrice": "880万",
+    "unitPrice": "66165元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "87m²",
+    "totalPrice": "930万",
+    "unitPrice": "106602元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "116m²",
+    "totalPrice": "360万",
+    "unitPrice": "30875元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "120m²",
+    "totalPrice": "720万",
+    "unitPrice": "60000元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "105m²",
+    "totalPrice": "1160万",
+    "unitPrice": "109921元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "102m²",
+    "totalPrice": "1300万",
+    "unitPrice": "126879元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "86m²",
+    "totalPrice": "251万",
+    "unitPrice": "28930元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "49m²",
+    "totalPrice": "270万",
+    "unitPrice": "54545元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "145m²",
+    "totalPrice": "730万",
+    "unitPrice": "50345元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "85m²",
+    "totalPrice": "185万",
+    "unitPrice": "21765元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "73m²",
+    "totalPrice": "260万",
+    "unitPrice": "35616元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "87m²",
+    "totalPrice": "460万",
+    "unitPrice": "52644元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "635万",
+    "unitPrice": "97035元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "61m²",
+    "totalPrice": "170万",
+    "unitPrice": "27597元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "158m²",
+    "totalPrice": "1600万",
+    "unitPrice": "101234元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "261m²",
+    "totalPrice": "2900万",
+    "unitPrice": "110899元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "200m²",
+    "totalPrice": "1849万",
+    "unitPrice": "92450元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "80m²",
+    "totalPrice": "316万",
+    "unitPrice": "39338元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "250m²",
+    "totalPrice": "1490万",
+    "unitPrice": "59417元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "118m²",
+    "totalPrice": "668万",
+    "unitPrice": "56224元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "928万",
+    "unitPrice": "163668元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "115m²",
+    "totalPrice": "858万",
+    "unitPrice": "74221元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "75m²",
+    "totalPrice": "880万",
+    "unitPrice": "115942元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "209m²",
+    "totalPrice": "3000万",
+    "unitPrice": "143541元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "51m²",
+    "totalPrice": "275万",
+    "unitPrice": "53753元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "195万",
+    "unitPrice": "38477元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "88m²",
+    "totalPrice": "680万",
+    "unitPrice": "76663元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "430万",
+    "unitPrice": "69243元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "97m²",
+    "totalPrice": "545万",
+    "unitPrice": "55800元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "88m²",
+    "totalPrice": "215万",
+    "unitPrice": "24195元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "75m²",
+    "totalPrice": "500万",
+    "unitPrice": "66667元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "140m²",
+    "totalPrice": "620万",
+    "unitPrice": "44081元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "64m²",
+    "totalPrice": "415万",
+    "unitPrice": "63945元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "6室3厅",
+    "area": "918m²",
+    "totalPrice": "8800万",
+    "unitPrice": "95861元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "130m²",
+    "totalPrice": "795万",
+    "unitPrice": "60873元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "880万",
+    "unitPrice": "70025元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "91m²",
+    "totalPrice": "530万",
+    "unitPrice": "57886元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "105m²",
+    "totalPrice": "220万",
+    "unitPrice": "20952元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "74m²",
+    "totalPrice": "540万",
+    "unitPrice": "72048元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "89m²",
+    "totalPrice": "275万",
+    "unitPrice": "30899元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "171m²",
+    "totalPrice": "1500万",
+    "unitPrice": "87607元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室",
+    "area": "51m²",
+    "totalPrice": "269万",
+    "unitPrice": "51971元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "107m²",
+    "totalPrice": "200万",
+    "unitPrice": "18690元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "47m²",
+    "totalPrice": "395万",
+    "unitPrice": "82309元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "72m²",
+    "totalPrice": "196万",
+    "unitPrice": "27072元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "94m²",
+    "totalPrice": "650万",
+    "unitPrice": "68805元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "140m²",
+    "totalPrice": "935万",
+    "unitPrice": "66652元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "91m²",
+    "totalPrice": "230万",
+    "unitPrice": "25131元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "400万",
+    "unitPrice": "59648元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "368万",
+    "unitPrice": "54583元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "105m²",
+    "totalPrice": "280万",
+    "unitPrice": "26540元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "68m²",
+    "totalPrice": "435万",
+    "unitPrice": "63365元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "525万",
+    "unitPrice": "41933元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "82m²",
+    "totalPrice": "545万",
+    "unitPrice": "65789元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "215m²",
+    "totalPrice": "2188万",
+    "unitPrice": "101767元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "201m²",
+    "totalPrice": "2399万",
+    "unitPrice": "119193元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室3厅",
+    "area": "133m²",
+    "totalPrice": "880万",
+    "unitPrice": "66165元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "87m²",
+    "totalPrice": "930万",
+    "unitPrice": "106602元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "83m²",
+    "totalPrice": "276万",
+    "unitPrice": "33117元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "360万",
+    "unitPrice": "40440元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "110m²",
+    "totalPrice": "345万",
+    "unitPrice": "31132元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "214m²",
+    "totalPrice": "1380万",
+    "unitPrice": "64486元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "105万",
+    "unitPrice": "17312元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "425万",
+    "unitPrice": "69433元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "135m²",
+    "totalPrice": "299.9万",
+    "unitPrice": "22215元/m²",
+    "place": "平谷"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "140m²",
+    "totalPrice": "620万",
+    "unitPrice": "44081元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "64m²",
+    "totalPrice": "415万",
+    "unitPrice": "63945元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "6室3厅",
+    "area": "918m²",
+    "totalPrice": "8800万",
+    "unitPrice": "95861元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "130m²",
+    "totalPrice": "795万",
+    "unitPrice": "60873元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "880万",
+    "unitPrice": "70025元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "126m²",
+    "totalPrice": "320万",
+    "unitPrice": "25272元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "91m²",
+    "totalPrice": "530万",
+    "unitPrice": "57886元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "105m²",
+    "totalPrice": "220万",
+    "unitPrice": "20952元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "74m²",
+    "totalPrice": "540万",
+    "unitPrice": "72048元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "89m²",
+    "totalPrice": "275万",
+    "unitPrice": "30899元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "115m²",
+    "totalPrice": "398万",
+    "unitPrice": "34480元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "171m²",
+    "totalPrice": "1500万",
+    "unitPrice": "87607元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室",
+    "area": "51m²",
+    "totalPrice": "269万",
+    "unitPrice": "51971元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "107m²",
+    "totalPrice": "200万",
+    "unitPrice": "18690元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "47m²",
+    "totalPrice": "395万",
+    "unitPrice": "82309元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "72m²",
+    "totalPrice": "196万",
+    "unitPrice": "27072元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "94m²",
+    "totalPrice": "650万",
+    "unitPrice": "68805元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "140m²",
+    "totalPrice": "935万",
+    "unitPrice": "66652元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "91m²",
+    "totalPrice": "230万",
+    "unitPrice": "25131元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "400万",
+    "unitPrice": "59648元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "67m²",
+    "totalPrice": "368万",
+    "unitPrice": "54583元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "182m²",
+    "totalPrice": "2899万",
+    "unitPrice": "158597元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "142m²",
+    "totalPrice": "310万",
+    "unitPrice": "21774元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "185m²",
+    "totalPrice": "2799万",
+    "unitPrice": "151012元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "50m²",
+    "totalPrice": "340万",
+    "unitPrice": "67247元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "123m²",
+    "totalPrice": "430万",
+    "unitPrice": "34857元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "64m²",
+    "totalPrice": "140万",
+    "unitPrice": "21875元/m²",
+    "place": "平谷"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "105m²",
+    "totalPrice": "280万",
+    "unitPrice": "26540元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "62m²",
+    "totalPrice": "175万",
+    "unitPrice": "27871元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "53m²",
+    "totalPrice": "375万",
+    "unitPrice": "69950元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "72m²",
+    "totalPrice": "316万",
+    "unitPrice": "43889元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "105m²",
+    "totalPrice": "980万",
+    "unitPrice": "93103元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "101m²",
+    "totalPrice": "520万",
+    "unitPrice": "51226元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "89m²",
+    "totalPrice": "513万",
+    "unitPrice": "57032元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "323m²",
+    "totalPrice": "5800万",
+    "unitPrice": "179478元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "58m²",
+    "totalPrice": "520万",
+    "unitPrice": "89655元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "850万",
+    "unitPrice": "138889元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "269m²",
+    "totalPrice": "1380万",
+    "unitPrice": "51225元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "137m²",
+    "totalPrice": "1190万",
+    "unitPrice": "86665元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "119m²",
+    "totalPrice": "648万",
+    "unitPrice": "54226元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "198m²",
+    "totalPrice": "1950万",
+    "unitPrice": "98371元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "85m²",
+    "totalPrice": "190万",
+    "unitPrice": "22319元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "55m²",
+    "totalPrice": "430万",
+    "unitPrice": "77158元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "128m²",
+    "totalPrice": "400万",
+    "unitPrice": "31250元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "104m²",
+    "totalPrice": "580万",
+    "unitPrice": "55428元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "147m²",
+    "totalPrice": "1180万",
+    "unitPrice": "80272元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "105万",
+    "unitPrice": "17312元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "425万",
+    "unitPrice": "69433元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "135m²",
+    "totalPrice": "299.9万",
+    "unitPrice": "22215元/m²",
+    "place": "平谷"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "117m²",
+    "totalPrice": "260万",
+    "unitPrice": "22222元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "156m²",
+    "totalPrice": "349.9万",
+    "unitPrice": "22429元/m²",
+    "place": "平谷"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "122m²",
+    "totalPrice": "770万",
+    "unitPrice": "62965元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "90m²",
+    "totalPrice": "300万",
+    "unitPrice": "33333元/m²",
+    "place": "延庆"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "76m²",
+    "totalPrice": "275万",
+    "unitPrice": "35981元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "94m²",
+    "totalPrice": "423万",
+    "unitPrice": "44715元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "63m²",
+    "totalPrice": "275万",
+    "unitPrice": "43300元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "89m²",
+    "totalPrice": "386万",
+    "unitPrice": "43371元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "199m²",
+    "totalPrice": "1680万",
+    "unitPrice": "84105元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "360m²",
+    "totalPrice": "1400万",
+    "unitPrice": "38889元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "90m²",
+    "totalPrice": "435万",
+    "unitPrice": "47855元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "850万",
+    "unitPrice": "138889元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "269m²",
+    "totalPrice": "1380万",
+    "unitPrice": "51225元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "137m²",
+    "totalPrice": "1190万",
+    "unitPrice": "86665元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "119m²",
+    "totalPrice": "648万",
+    "unitPrice": "54226元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "198m²",
+    "totalPrice": "1950万",
+    "unitPrice": "98371元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "85m²",
+    "totalPrice": "190万",
+    "unitPrice": "22319元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "55m²",
+    "totalPrice": "430万",
+    "unitPrice": "77158元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "128m²",
+    "totalPrice": "400万",
+    "unitPrice": "31250元/m²",
+    "place": "怀柔"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "104m²",
+    "totalPrice": "580万",
+    "unitPrice": "55428元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "147m²",
+    "totalPrice": "1180万",
+    "unitPrice": "80272元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "52m²",
+    "totalPrice": "230万",
+    "unitPrice": "44231元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "127m²",
+    "totalPrice": "380万",
+    "unitPrice": "29921元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "79m²",
+    "totalPrice": "1350万",
+    "unitPrice": "168898元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "177m²",
+    "totalPrice": "1900万",
+    "unitPrice": "106862元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "74m²",
+    "totalPrice": "435万",
+    "unitPrice": "58649元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "89m²",
+    "totalPrice": "338万",
+    "unitPrice": "37978元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "81m²",
+    "totalPrice": "800万",
+    "unitPrice": "97871元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "65m²",
+    "totalPrice": "555万",
+    "unitPrice": "84193元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "110m²",
+    "totalPrice": "850万",
+    "unitPrice": "77091元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "85m²",
+    "totalPrice": "285万",
+    "unitPrice": "33490元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "340万",
+    "unitPrice": "56087元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "97m²",
+    "totalPrice": "750万",
+    "unitPrice": "76609元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "93m²",
+    "totalPrice": "415万",
+    "unitPrice": "44624元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "105m²",
+    "totalPrice": "800万",
+    "unitPrice": "75572元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "106m²",
+    "totalPrice": "1145万",
+    "unitPrice": "107552元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "48m²",
+    "totalPrice": "490万",
+    "unitPrice": "100225元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "133m²",
+    "totalPrice": "1180万",
+    "unitPrice": "88502元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "288m²",
+    "totalPrice": "950万",
+    "unitPrice": "32897元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "57m²",
+    "totalPrice": "395万",
+    "unitPrice": "69274元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "66m²",
+    "totalPrice": "550万",
+    "unitPrice": "83195元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "409m²",
+    "totalPrice": "3750万",
+    "unitPrice": "91533元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "114m²",
+    "totalPrice": "1180万",
+    "unitPrice": "103509元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "198m²",
+    "totalPrice": "1350万",
+    "unitPrice": "68182元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "71m²",
+    "totalPrice": "580万",
+    "unitPrice": "81461元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "275万",
+    "unitPrice": "49107元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "436m²",
+    "totalPrice": "2630万",
+    "unitPrice": "60321元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "707m²",
+    "totalPrice": "4900万",
+    "unitPrice": "69307元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "85m²",
+    "totalPrice": "640万",
+    "unitPrice": "74968元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "104m²",
+    "totalPrice": "689万",
+    "unitPrice": "65984元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "45m²",
+    "totalPrice": "188万",
+    "unitPrice": "41778元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "5室3厅",
+    "area": "570m²",
+    "totalPrice": "2600万",
+    "unitPrice": "45614元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "41m²",
+    "totalPrice": "498万",
+    "unitPrice": "121463元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "470万",
+    "unitPrice": "52626元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "95m²",
+    "totalPrice": "463万",
+    "unitPrice": "48492元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "251m²",
+    "totalPrice": "1200万",
+    "unitPrice": "47809元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "126m²",
+    "totalPrice": "610万",
+    "unitPrice": "48282元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "59m²",
+    "totalPrice": "288万",
+    "unitPrice": "48282元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "132m²",
+    "totalPrice": "475万",
+    "unitPrice": "35979元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "56m²",
+    "totalPrice": "310万",
+    "unitPrice": "55258元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "65m²",
+    "totalPrice": "420万",
+    "unitPrice": "63839元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "61m²",
+    "totalPrice": "412万",
+    "unitPrice": "67430元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "280万",
+    "unitPrice": "31358元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "72m²",
+    "totalPrice": "320万",
+    "unitPrice": "43854元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "125m²",
+    "totalPrice": "860万",
+    "unitPrice": "68800元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "99m²",
+    "totalPrice": "420万",
+    "unitPrice": "42059元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "69m²",
+    "totalPrice": "414万",
+    "unitPrice": "59380元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "149m²",
+    "totalPrice": "1000万",
+    "unitPrice": "67114元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "71m²",
+    "totalPrice": "335万",
+    "unitPrice": "46775元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "215m²",
+    "totalPrice": "758万",
+    "unitPrice": "35106元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "130m²",
+    "totalPrice": "260万",
+    "unitPrice": "20000元/m²",
+    "place": "密云"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "54m²",
+    "totalPrice": "529万",
+    "unitPrice": "96375元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "66m²",
+    "totalPrice": "380万",
+    "unitPrice": "57272元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "159m²",
+    "totalPrice": "1050万",
+    "unitPrice": "65996元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "82m²",
+    "totalPrice": "420万",
+    "unitPrice": "51163元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室3厅",
+    "area": "270m²",
+    "totalPrice": "3980万",
+    "unitPrice": "147195元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室",
+    "area": "61m²",
+    "totalPrice": "440万",
+    "unitPrice": "71324元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "75m²",
+    "totalPrice": "360万",
+    "unitPrice": "48000元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "40m²",
+    "totalPrice": "265万",
+    "unitPrice": "66019元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "60m²",
+    "totalPrice": "950万",
+    "unitPrice": "158333元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "70m²",
+    "totalPrice": "305万",
+    "unitPrice": "42988元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "106m²",
+    "totalPrice": "448万",
+    "unitPrice": "42133元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "146m²",
+    "totalPrice": "760万",
+    "unitPrice": "51799元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "94m²",
+    "totalPrice": "442万",
+    "unitPrice": "46659元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "146m²",
+    "totalPrice": "905万",
+    "unitPrice": "61817元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "129m²",
+    "totalPrice": "610万",
+    "unitPrice": "46948元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "147m²",
+    "totalPrice": "1300万",
+    "unitPrice": "88297元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "4室2厅",
+    "area": "140m²",
+    "totalPrice": "630万",
+    "unitPrice": "44694元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "129m²",
+    "totalPrice": "600万",
+    "unitPrice": "46429元/m²",
+    "place": "通州"
+  },
+  {
+    "bedroom": "5室2厅",
+    "area": "259m²",
+    "totalPrice": "2100万",
+    "unitPrice": "81081元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "102m²",
+    "totalPrice": "469万",
+    "unitPrice": "45547元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "87m²",
+    "totalPrice": "1180万",
+    "unitPrice": "134811元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "149m²",
+    "totalPrice": "1100万",
+    "unitPrice": "73687元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "65m²",
+    "totalPrice": "640万",
+    "unitPrice": "98416元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "89m²",
+    "totalPrice": "950万",
+    "unitPrice": "105956元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "76m²",
+    "totalPrice": "318万",
+    "unitPrice": "41358元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "57m²",
+    "totalPrice": "560万",
+    "unitPrice": "96886元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "66m²",
+    "totalPrice": "225万",
+    "unitPrice": "33824元/m²",
+    "place": "房山"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "90m²",
+    "totalPrice": "950万",
+    "unitPrice": "105380元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "90m²",
+    "totalPrice": "440万",
+    "unitPrice": "48743元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "166m²",
+    "totalPrice": "969万",
+    "unitPrice": "58052元/m²",
+    "place": "顺义"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "110m²",
+    "totalPrice": "699万",
+    "unitPrice": "63201元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "240m²",
+    "totalPrice": "1220万",
+    "unitPrice": "50759元/m²",
+    "place": "昌平"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "78m²",
+    "totalPrice": "780万",
+    "unitPrice": "99617元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "50m²",
+    "totalPrice": "450万",
+    "unitPrice": "88986元/m²",
+    "place": "西城"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "138m²",
+    "totalPrice": "985万",
+    "unitPrice": "71201元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "2室2厅",
+    "area": "99m²",
+    "totalPrice": "480万",
+    "unitPrice": "48329元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "127m²",
+    "totalPrice": "1140万",
+    "unitPrice": "89321元/m²",
+    "place": "朝阳"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "61m²",
+    "totalPrice": "370万",
+    "unitPrice": "60349元/m²",
+    "place": "石景山"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "113m²",
+    "totalPrice": "1350万",
+    "unitPrice": "119385元/m²",
+    "place": "东城"
+  },
+  {
+    "bedroom": "1室1厅",
+    "area": "36m²",
+    "totalPrice": "220万",
+    "unitPrice": "60109元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室1厅",
+    "area": "69m²",
+    "totalPrice": "570万",
+    "unitPrice": "82310元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "2室1厅",
+    "area": "85m²",
+    "totalPrice": "330万",
+    "unitPrice": "38701元/m²",
+    "place": "大兴"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "81m²",
+    "totalPrice": "423万",
+    "unitPrice": "51959元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "141m²",
+    "totalPrice": "780万",
+    "unitPrice": "55319元/m²",
+    "place": "丰台"
+  },
+  {
+    "bedroom": "4室1厅",
+    "area": "102m²",
+    "totalPrice": "1119万",
+    "unitPrice": "108746元/m²",
+    "place": "海淀"
+  },
+  {
+    "bedroom": "3室2厅",
+    "area": "167m²",
+    "totalPrice": "1650万",
+    "unitPrice": "98643元/m²",
+    "place": "海淀"
+  }
+]
